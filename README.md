@@ -62,8 +62,8 @@ The dataset contains retail transaction-level data including:
 # SQL Queries Documentation
 
 ## Complete SQL Project File
-👉 [SQL Queries File]([PASTE_SQL_FILE_LINK_HERE](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv))
-
+👉 [SQL Queries File][([PASTE_SQL_FILE_LINK_HERE](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv))
+](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv)
 ---
 
 # Database Structure
