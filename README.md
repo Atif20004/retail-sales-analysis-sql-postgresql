@@ -37,6 +37,7 @@ To demonstrate the practical execution of this project, I recorded a live SQL wa
 
 ## LinkedIn Video Demonstration
 👉 [Retail Sales SQL Project Walkthrough](https://www.linkedin.com/posts/mohammad-atif-b013522a9_sql-postgresql-dataanalytics-ugcPost-7459879916579270657-MOxZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpEnLEBZvz73Z-CD20N7Jo0LfUXxvb1BfM)
+
 ---
 
 # Dataset Used
@@ -62,8 +63,8 @@ The dataset contains retail transaction-level data including:
 # SQL Queries Documentation
 
 ## Complete SQL Project File
-👉 [SQL Queries File][([PASTE_SQL_FILE_LINK_HERE](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv))
-](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv)
+👉 [Retail Sales SQL Queries](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/PROJECT_FILE.sql)
+
 ---
 
 # Database Structure
@@ -242,11 +243,6 @@ The project also reflects my ability to combine independent learning, analytical
 
 ## Mohammad Atif
 
-### GitHub
-[Atif20004 GitHub Profile](https://github.com/Atif20004)
-
-### LinkedIn
-[Mohammad Atif LinkedIn](https://www.linkedin.com/in/mohammad-atif-b013522a9)
 ### GitHub
 [Atif20004 GitHub Profile](https://github.com/Atif20004)
 
