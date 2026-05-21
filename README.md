@@ -55,7 +55,7 @@ The dataset contains retail transaction-level data including:
 - Total Sales
 
 ## Dataset File
-👉 [Retail Sales Dataset CSV](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv))
+👉 [Retail Sales Dataset CSV](https://github.com/Atif20004/retail-sales-analysis-sql-postgresql/blob/main/Dataset%20File.csv)
 
 ---
 
