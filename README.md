@@ -3,9 +3,9 @@
 ## Project Overview
 This project presents a comprehensive SQL-based Retail Sales Business Analysis performed using PostgreSQL. The objective of this project is to analyze retail transaction data and generate meaningful business insights using SQL queries ranging from basic operations to advanced analytical queries.
 
-The project demonstrates practical SQL skills used in real-world business analysis, including sales analysis, customer behavior analysis, revenue tracking, profit analysis, ranking analysis, and trend identification.
+The project demonstrates practical SQL skills used in real-world business analysis, including sales analysis, customer behavior analysis, revenue tracking, profit analysis, ranking analysis, trend identification, and analytical reporting.
 
-This project was independently developed by me as part of hands-on SQL and data analytics practice. AI-assisted learning was used to improve analytical understanding, query optimization, and business problem-solving approaches while maintaining practical implementation and query execution by myself.
+This project was independently developed by me as part of hands-on SQL and data analytics practice. AI-assisted learning was used to improve analytical understanding, query structuring, and business problem-solving approaches while maintaining practical implementation and query execution by myself.
 
 ---
 
@@ -36,8 +36,7 @@ The primary objectives of this project are to:
 To demonstrate the practical execution of this project, I recorded a live SQL walkthrough where I execute queries directly in PostgreSQL and explain the analytical outputs.
 
 ## LinkedIn Video Demonstration
-👉 [Add Your LinkedIn Walkthrough Video Link Here](PASTE_LINK_HERE)
-
+👉 [Retail Sales SQL Project Walkthrough](https://www.linkedin.com/posts/mohammad-atif-b013522a9_sql-postgresql-dataanalytics-ugcPost-7459879916579270657-MOxZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpEnLEBZvz73Z-CD20N7Jo0LfUXxvb1BfM)
 ---
 
 # Dataset Used
@@ -136,19 +135,26 @@ This project demonstrates practical implementation of:
 
 ---
 
-# Business Problems Solved
+# Key Business Questions Solved
 
-This project answers several business-oriented analytical questions such as:
+The project includes SQL-based solutions for multiple business and analytical scenarios such as:
 
-- Total revenue generated
-- Total profit by category
-- Top-performing customers
-- Best-selling categories
-- Monthly sales trends
-- Customer purchasing behavior
-- Highest-value transactions
-- Sales contribution analysis
-- Peak transaction periods
+- What is the total revenue generated from retail sales?
+- Which product categories generate the highest sales and profit?
+- Which categories have the highest transaction volume?
+- Who are the top-performing customers based on total spending?
+- Which months recorded the highest sales performance?
+- What is the month-over-month sales growth trend?
+- Which customer segments contribute the most revenue?
+- What are the highest and lowest transaction values?
+- Which product categories perform best across customer groups?
+- Which customers purchased from multiple product categories?
+- Which transactions generated the highest profit?
+- How can ranking functions identify top transactions and customers?
+- How can SQL window functions be used for advanced business analysis?
+- What is the cumulative sales growth over time?
+- Which customers generated the highest single transaction?
+- How can customer purchasing behavior be analyzed using SQL?
 
 ---
 
@@ -218,8 +224,8 @@ This project reflects practical SQL and business analysis skills relevant to Dat
 📁 Dataset  
 📁 SQL Queries  
 📁 Database Creation Script  
+📁 Business Questions  
 📁 Analytical Queries  
-📁 Business Problem Solutions  
 📁 Documentation  
 
 ---
@@ -236,6 +242,11 @@ The project also reflects my ability to combine independent learning, analytical
 
 ## Mohammad Atif
 
+### GitHub
+[Atif20004 GitHub Profile](https://github.com/Atif20004)
+
+### LinkedIn
+[Mohammad Atif LinkedIn](https://www.linkedin.com/in/mohammad-atif-b013522a9)
 ### GitHub
 [Atif20004 GitHub Profile](https://github.com/Atif20004)
 
